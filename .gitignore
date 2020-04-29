@@ -1,0 +1,9 @@
+/target/
+/bin/
+.classpath
+*/*.png
+/test-output/
+/TestResult/
+src/test/resources/~$TestStub_Dev.xlsx
+/sel_downloads/
+/output/
